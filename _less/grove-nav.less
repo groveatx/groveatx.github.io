@@ -1,0 +1,81 @@
+@logoHeight: 104px;
+
+@media (min-width: 767px) {
+  .nav.nav-tabs {
+    margin-top: @logoHeight - 65px;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav.nav-tabs {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    >li {
+      float: none;
+      display: inline-block;
+      text-align: left;
+    }
+    .dropdown-menu {
+      min-width: 110px;
+    }
+  }
+  .logo-container {
+    text-align: center;
+  }
+  .logo-container img {
+    height: 60px;
+  }
+}
+
+// we need to under-qualify this otherwise it beats out the max-width 767 li
+// rule above
+.nav-tabs > li { float: right; }
+
+.nav.nav-tabs {
+  border-bottom-width: 0;
+  @navTabsHoverColor: darken(@textColor, 25%);
+  a {
+    color: @textColor;
+    > .caret {
+      border-top-color: @textColor;
+    }
+
+    &:hover {
+      color: @navTabsHoverColor;
+      border-color: @bodyBackground;
+      > .caret {
+        border-top-color: @navTabsHoverColor;
+      }
+    }
+  }
+
+  li.dropdown.open > a {
+    background-color: @bodyBackground;
+    color: @textColor;
+    border-color: @bodyBackground;
+    > .caret {
+      border-top-color: @textColor;
+    }
+
+    &:hover {
+      color: @navTabsHoverColor;
+      border-color: @bodyBackground;
+      > .caret {
+        border-top-color: @navTabsHoverColor;
+      }
+    }
+  }
+
+  .dropdown-menu {
+    @dropdownBorderTopWidth: 5px;
+    border-top: @dropdownBorderTopWidth solid @yellow;
+    .top-caret(@yellow, @dropdownBorderTopWidth);
+
+    > li > a:hover {
+      background-color: @white;
+      background-image: none;
+    }
+  }
+}
+

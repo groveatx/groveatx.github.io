@@ -1,0 +1,54 @@
+//
+// Utility classes
+// --------------------------------------------------
+
+
+// Quick floats
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+
+// Toggling content
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+
+// Visibility
+.invisible {
+  visibility: hidden;
+}
+
+// For Affix plugin
+.affix {
+  position: fixed;
+}
+
+.top-caret(@color, @border-top-width) {
+    &:before {
+      content: '';
+      display: inline-block;
+      border-left:   7px solid transparent;
+      border-right:  7px solid transparent;
+      border-bottom: 7px solid #ccc;
+      border-bottom-color: @color;
+      position: absolute;
+      top: -7px - @border-top-width;
+      left: 9px;
+    }
+    &:after {
+      content: '';
+      display: inline-block;
+      border-left:   6px solid transparent;
+      border-right:  6px solid transparent;
+      border-bottom: 6px solid @color;
+      position: absolute;
+      top: -6px - @border-top-width;
+      left: 10px;
+    }
+}
