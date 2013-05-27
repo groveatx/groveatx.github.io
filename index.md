@@ -1,5 +1,5 @@
 ---
+name: index
 layout: frontpage
-title: The Grove - Love | Freedom | Austin
+title: Love | Freedom | Austin
 ---
-in there

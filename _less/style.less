@@ -19,15 +19,16 @@ hr {
   border-bottom-color: darken(@grayLighter, 15%);
 }
 
-h4 {
-  color: @black;
+
+
+h2, h4 {
   font-style: italic;
-  font-weight: normal;
 }
 
 .copy {
   font-family: @serifFontFamily;
   font-style: italic;
+  margin-bottom: @gridGutterWidth;
 }
 
 .tweak-me {
@@ -45,6 +46,12 @@ h4 {
   }
 }
 
-.teaser img {
+.teaser img, .banner {
   width: 100%;
+}
+
+.sidebar {
+  img {
+    width: 100%;
+  }
 }
