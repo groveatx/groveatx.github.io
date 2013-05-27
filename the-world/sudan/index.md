@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Values and Beliefs
+title: Sudan
 ---
 
 <img class="banner" src="/img/sudan.jpg" />

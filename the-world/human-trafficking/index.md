@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Values and Beliefs
+title: Refugees
 ---
 
 <img class="banner" src="/img/safeway.jpg" />
