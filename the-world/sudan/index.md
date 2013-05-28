@@ -3,7 +3,7 @@ layout: page
 title: Sudan
 ---
 
-<img class="banner" src="/img/sudan.jpg" />
+<img class="banner" src="/img/sudan.jpg" alt="Juba, South Sudan" />
 
 ## Sudan
 
