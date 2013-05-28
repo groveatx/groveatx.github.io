@@ -23,6 +23,12 @@
       &.dropdown b {
         float: right;
       }
+      li a {
+        line-height: 30px;
+        a:active, a:focus {
+          background-color: darken(@dropdownBackground, 15%);
+        }
+      }
       a:active, a:focus {
         background-color: darken(@bodyBackground, 15%);
         .border-radius(0);
