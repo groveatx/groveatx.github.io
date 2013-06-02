@@ -1,5 +1,6 @@
 exclude:
  - README.md
+ - node_modules
 title: The Grove
 facebook: http://www.facebook.com/thegroveaustin
 twitter: https://twitter.com/GroveATX
