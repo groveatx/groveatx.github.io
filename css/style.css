@@ -8107,4 +8107,9 @@ h4 {
 }
 .sidebar img {
   width: 100%;
+  margin-bottom: 10px;
+}
+.leaders img {
+  display: block;
+  margin: 0 auto;
 }

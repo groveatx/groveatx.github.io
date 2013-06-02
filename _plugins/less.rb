@@ -12,13 +12,12 @@ module Jekyll
 
     def generate(site)
       src_root = site.config['source']
-      less_ext = /\.less$/i
       lessc_bin = site.config['lessc'] || 'lessc'
 
       sf = StaticFile.new(site, src_root, '_less', 'style.less')
 
       css_path = sf.path
-                  .gsub(less_ext, '.css')
+                  .gsub(/\.less$/i, '.css')
                   .gsub(src_root + '/', '')
                   .gsub('_less', 'css')
       file_name = File.basename(css_path)
