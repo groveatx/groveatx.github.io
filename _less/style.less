@@ -3,8 +3,8 @@
 @import "page-curl.less";
 @import "grove-nav.less";
 
-.navbar-static-top {
-  margin-bottom: 5px;
+.grove-navbar {
+  margin: 0 -20px 5px;
   max-height: @navbarHeight;
   background-color: @yellow;
   background-image: none;
@@ -16,6 +16,11 @@
     position: absolute;
     top: 0;
     right: 0;
+  }
+}
+@media (max-width: 767px) {
+  .grove-navbar .news {
+    display: none;
   }
 }
 

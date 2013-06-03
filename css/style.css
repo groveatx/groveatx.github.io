@@ -8069,20 +8069,25 @@ a.badge:focus {
   background-color: #ffffff;
   background-image: none;
 }
-.navbar-static-top {
-  margin-bottom: 5px;
+.grove-navbar {
+  margin: 0 -20px 5px;
   max-height: 5px;
   background-color: #ffde00;
   background-image: none;
   border: 0;
 }
-.navbar-static-top .column {
+.grove-navbar .column {
   position: relative;
 }
-.navbar-static-top .news {
+.grove-navbar .news {
   position: absolute;
   top: 0;
   right: 0;
+}
+@media (max-width: 767px) {
+  .grove-navbar .news {
+    display: none;
+  }
 }
 hr {
   border-style: dashed;
