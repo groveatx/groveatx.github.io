@@ -3,15 +3,20 @@
 @import "page-curl.less";
 @import "grove-nav.less";
 
-.navbar {
+.navbar-static-top {
   margin-bottom: 5px;
-}
-
-.navbar-inner {
   max-height: @navbarHeight;
   background-color: @yellow;
   background-image: none;
   border: 0;
+  .column {
+    position: relative;
+  }
+  .news {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
 }
 
 hr {
@@ -21,7 +26,7 @@ hr {
 
 
 
-h2, h4 {
+h2, h3, h4, h5 {
   font-style: italic;
 }
 
@@ -59,4 +64,22 @@ h2, h4 {
 .leaders img {
   display: block;
   margin: 0 auto;
+}
+
+.segue {
+  font-style: italic;
+  font-family: @serifFontFamily;
+  font-size: @baseFontSize*1.2;
+}
+
+.post {
+  padding: @gridGutterWidth/2;
+  background-color: @white;
+}
+
+h5.byline {
+  background-color: @yellow;
+  padding: @gridGutterWidth/4;
+  padding-left: @gridGutterWidth/2;
+  margin-left: -@gridGutterWidth;
 }

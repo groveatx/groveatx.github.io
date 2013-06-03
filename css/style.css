@@ -7953,6 +7953,9 @@ a.badge:focus {
   .nav.nav-tabs {
     margin-top: 39px;
   }
+  .nav.nav-tabs .only-small-screen {
+    display: none;
+  }
 }
 @media (max-width: 767px) {
   .nav.nav-tabs {
@@ -8066,14 +8069,20 @@ a.badge:focus {
   background-color: #ffffff;
   background-image: none;
 }
-.navbar {
+.navbar-static-top {
   margin-bottom: 5px;
-}
-.navbar-inner {
   max-height: 5px;
   background-color: #ffde00;
   background-image: none;
   border: 0;
+}
+.navbar-static-top .column {
+  position: relative;
+}
+.navbar-static-top .news {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 hr {
   border-style: dashed;
@@ -8081,7 +8090,9 @@ hr {
   border-top-width: 0;
 }
 h2,
-h4 {
+h3,
+h4,
+h5 {
   font-style: italic;
 }
 .copy {
@@ -8112,4 +8123,19 @@ h4 {
 .leaders img {
   display: block;
   margin: 0 auto;
+}
+.segue {
+  font-style: italic;
+  font-family: "Droid Serif", Georgia, Times, "Times New Roman", serif;
+  font-size: 14.399999999999999px;
+}
+.post {
+  padding: 10px;
+  background-color: #ffffff;
+}
+h5.byline {
+  background-color: #ffde00;
+  padding: 5px;
+  padding-left: 10px;
+  margin-left: -20px;
 }

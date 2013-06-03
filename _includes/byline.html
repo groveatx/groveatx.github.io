@@ -1,0 +1,10 @@
+{% unless post %}
+  {% assign post = page %}
+{% endunless %}
+<div class=row>
+  <div class=span4>
+    <h5 class=byline>
+      by {{ post.author }} on {{ post.date | date_to_string }}
+    </h5>
+  </div>
+</div>
