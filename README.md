@@ -1,5 +1,54 @@
 ## the grove church website.
 
+### adding a post
+
+ - go [here](https://github.com/groveatx/groveatx.github.io/tree/master/_posts), click the 'Create
+   a new file here' button:
+
+![create a new file](http://i.imgur.com/KUgzcd0.png)
+
+ - name the file similarly to the other files, the date followed by the post title, so if you're
+   doing the announcements for june 23rd, you'd title it `2013-06-23-announcements.md`.
+ - add the necessary metadata about what your post to the top of the file (it's
+   important to use this exact format, but use your own info, of course):
+
+```yaml
+---
+title: Announcements for June 13, 2013
+date: 2013-06-23
+author: Aaron Stacy
+layout: post
+---
+```
+
+ - and then write your post in the [markdown](http://daringfireball.net/projects/markdown/)
+   format. it'll probably look something like this:
+
+```markdown
+
+# this is your post title, it starts with the "#" character
+
+this is some intro paragraph. note that there is a blank line before and after
+the paragraph. that's important.
+
+ - this
+ - is
+ - a
+ - bulleted list
+ 
+## sub-headings start with two pound signs
+
+> this is a quote, it starts the line with a "greater than" sign
+
+and you can also do **bold** and *italics* by surrounding the word with asterisks.
+```
+
+ - then click the 'Commit New File' button at the bottom
+
+![create a new file](http://i.imgur.com/jFAWWZU.png)
+
+ - make sure to visit [the news page](http://groveatx.org/news/) to see your new post.
+
 ### developing
 
 start up a server:
