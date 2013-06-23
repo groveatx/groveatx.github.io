@@ -3,7 +3,6 @@ title: Announcements for June 13, 2013
 date: 2013-06-23
 author: Aaron Stacy
 layout: post
-published: false
 ---
 
 # Announcements for June 13, 2013
@@ -21,7 +20,7 @@ published: false
    about all of this, we would still invite you to join us to see if this
    something God is calling you to be a part of.
 
- - **Community Group at the Stacy's on Wednesday at 6:30 PM** - We'll be
+ - **Community Group at the Curry's on Wednesday at 6:30 PM** - We'll be
    meeting to pray and hang out with eachother.
 
  - **Montgomery's Community Group on Thursday at 7:30** - Location TBD.
