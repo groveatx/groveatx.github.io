@@ -24,3 +24,15 @@ layout: post
    meeting to pray and hang out with eachother.
 
  - **Montgomery's Community Group on Thursday at 7:30** - Location TBD.
+
+## Worship Set and Key Scripture
+
+ - [With Us](http://www.youtube.com/watch?v=xG4sYfWiN2I)
+ - [Our God](http://www.youtube.com/watch?v=wYJfuFQe4cc)
+ - How Great Thou Art
+ - [With Everything](http://www.youtube.com/watch?v=Gq_z_i9XQZc)
+ - [This is Amazing Grace](http://www.youtube.com/watch?v=Bn5zk3yCRr0)
+
+This week we'll be studying [Luke
+4:31-42](http://www.biblegateway.com/passage/?search=Luke%204:31-42&version=ESV).
+ 
