@@ -18,3 +18,14 @@ layout: post
    morning, July 13th at 10 AM. It's a fun time for families and there's a good
    chance we'll break out into a game of ultimate frisbee or basketball.
 
+## Worship Set and Key Scripture
+
+ - [Blessed Be the Name](http://www.youtube.com/watch?v=ZI6585ekuhg)
+ - [Because of Your Love](http://www.youtube.com/watch?v=ekrKOYRZC0I)
+ - [Mighty to Save](http://www.youtube.com/watch?v=-08YZF87OBQ)
+ - [Forever Reign](http://www.youtube.com/watch?v=au3EGgISYMc)
+ - [Tis So Sweet to Trust in Jesus](http://open.spotify.com/track/76tRhM1IgjxZ7sKk5ctUgg)
+
+This week we'll be looking at [Luke
+5:1-11](http://www.biblegateway.com/passage/?search=Luke+5%3A1-11&version=ESV).
+ 
