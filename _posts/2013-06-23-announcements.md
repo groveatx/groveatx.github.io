@@ -1,5 +1,5 @@
 ---
-title: Announcements for june 13, 2013
+title: Announcements for June 13, 2013
 date: 2013-06-23
 author: aaron stacy
 layout: post
