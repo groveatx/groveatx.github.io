@@ -3,7 +3,7 @@ exclude:
  - node_modules
  - CNAME
 title: The Grove
-permalink: /news/:title/
+permalink: /news/:year/:month/:day/:title
 facebook: http://www.facebook.com/thegroveaustin
 twitter: https://twitter.com/GroveATX
 markdown: rdiscount

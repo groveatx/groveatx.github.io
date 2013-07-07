@@ -16,8 +16,9 @@ layout: post
    morning, July 13th at 11 AM. It's a fun time for families and there's a good
    chance we'll break out into a game of ultimate frisbee or basketball.
 
- - **Montgomery's Community Group on Thursday at 7:30** - We'll be meeting at
-   [thier apartment](http://www.retreataustin.com/p/apartments/map/austin-tx-78704/retreat-at-bartons-creek-3524).
+ - **Montgomery's Community Group** - We'll be meeting at [thier
+   apartment](http://www.retreataustin.com/p/apartments/map/austin-tx-78704/retreat-at-bartons-creek-3524)
+   this Thursday at 7:30 PM.
 
  - **Movie night at Irie Bean**: We'll be showing Hook at [the Irie
    Bean](http://www.iriebean.com) on Friday, July 19th at 8 PM, and yes, we
