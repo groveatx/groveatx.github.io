@@ -16,7 +16,7 @@ layout: post
    morning, July 13th at 11 AM. It's a fun time for families and there's a good
    chance we'll break out into a game of ultimate frisbee or basketball.
 
- - **Montgomery's Community Group** - We'll be meeting at [thier
+ - **Montgomery's Community Group** - We'll be meeting at [their
    apartment](http://www.retreataustin.com/p/apartments/map/austin-tx-78704/retreat-at-bartons-creek-3524)
    this Thursday at 7:30 PM.
 
