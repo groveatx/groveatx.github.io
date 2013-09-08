@@ -12,4 +12,6 @@ layout: post
    to anyone who is hungry. We usually stay for about an hour and a half. Come
    join us!
 
+ - **Ladies Community Group**: This Wednesday at 8:15 on top of Whole Foods downtown. 
+
 [lot]: https://www.google.com/maps/preview#!q=415+E+7th+St%2C+Austin%2C+TX+78701&data=!1m4!1m3!1d3136!2d-97.738289!3d30.267541!4m10!1m9!4m8!1m3!1d787!2d-97.7383927!3d30.2672738!3m2!1i1278!2i702!4f13.1
