@@ -11,7 +11,7 @@ layout: post
    Friday, September 6<sup>th</sup> at [Irie Bean Coffee Bar][irie]. This time
    we'll be watching The Princess Bride. Bring a friend and enjoy!
 
- - **Serving the homeless downtown in two weeks**: Next Sunday, September
+ - **Serving the homeless downtown next week**: Next Sunday, September
    8<sup>th</sup>, we'll be downtown at [7<sup>th</sup> and Neches][lot] at 3
    PM to grill burgers and pass them out to anyone who is hungry. Normally we
    do this on the first Sunday of each month, but we're pushing it back a week
