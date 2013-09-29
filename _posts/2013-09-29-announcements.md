@@ -7,11 +7,6 @@ layout: post
 
 # Announcements for September 29, 2013
 
- - **Serving the homeless downtown next week**: Next Sunday, October
-   6<sup>th</sup>, we'll be downtown at [7<sup>th</sup> and Neches][lot] at 3
-   P.M. to grill burgers and pass them out to anyone who is hungry. Come join
-   us!
-
  - **Fill It, Give It Backpack Event**: When we did our backpack drive we had a
    massive donation, so we're going to fill 50 of the backpacks with supplies
    that could help our homeless friends on the street. The "Filling" event is
