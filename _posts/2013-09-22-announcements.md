@@ -18,8 +18,8 @@ layout: post
    our gathering, and more details to follow.
 
  - **Explore God groups**: [Explore God][explore] is a movement among many
-   belivers in our area to create open dialog about faith and Jesus with anyone
-   who has questions. If you'd like to get involved in a group, a couple
+   believers in our area to create open dialog about faith and Jesus with
+   anyone who has questions. If you'd like to get involved in a group, a couple
    options are:
 
    - [**Baker Street Pub Meetup**][baker] - [Contact Reid][baker] for more
