@@ -46,6 +46,8 @@ layout: post
    accountability. It meets from 7-9 PM on Tuesdays at Reuben's place. Contact
    [Reuben][] for more details.
 
+ - **Reid's Birthday is today!** - Reid turns 33, wish him a good one!
+
 [explore]: http://www.exploregod.com
 [baker]: http://www.meetup.com/exploregod/
 [irie]: http://www.iriebean.com
