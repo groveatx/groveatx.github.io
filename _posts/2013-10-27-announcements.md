@@ -37,7 +37,7 @@ layout: post
 [lot]: https://www.google.com/maps/preview#!q=415+E+7th+St%2C+Austin%2C+TX+78701&data=!1m4!1m3!1d3136!2d-97.738289!3d30.267541!4m10!1m9!4m8!1m3!1d787!2d-97.7383927!3d30.2672738!3m2!1i1278!2i702!4f13.1
 [opal]: http://www.opaldivines.com/penn-field/index.html
 [jj]: http://jeremiahjonesmusic.com
-[Todd]: mailto:tcurry@hccrsite.com
+[Todd]: mailto:toddcurry12+groveatxorg@gmail.com
 [Aaron]: mailto:aaron.r.stacy+groveannounce@gmail.com
 [messages]: /gatherings/messages/
 [casebiers]: https://www.google.com/maps/preview#!q=11107+Slaughter+Creek+Drive%2C+78748&data=!1m4!1m3!1d27598!2d-97.80982!3d30.158783!4m10!1m9!4m8!1m3!1d1725!2d-97.818393!3d30.152709!3m2!1i1024!2i768!4f13.1
