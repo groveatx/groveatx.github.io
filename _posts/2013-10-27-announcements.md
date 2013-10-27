@@ -22,8 +22,14 @@ layout: post
    so that means we'll be downtown at [7th and Neches][lot] at 3pm to grill
    burgers and pass them out to anyone who is hungry. Come join us!
 
+ - **Message audio available to download**: We're going to start posting audio
+   recordings of the messages from our Sunday morning gatherings. You can
+   download last week's message [here][messages], or navigate there by finding
+   it under the "Gatherings" menu at the top.
+
 [lot]: https://www.google.com/maps/preview#!q=415+E+7th+St%2C+Austin%2C+TX+78701&data=!1m4!1m3!1d3136!2d-97.738289!3d30.267541!4m10!1m9!4m8!1m3!1d787!2d-97.7383927!3d30.2672738!3m2!1i1278!2i702!4f13.1
 [opal]: http://www.opaldivines.com/penn-field/index.html
 [jj]: http://jeremiahjonesmusic.com
 [Todd]: mailto:tcurry@hccrsite.com
 [Aaron]: mailto:aaron.r.stacy+groveannounce@gmail.com
+[messages]: /gatherings/messages/
