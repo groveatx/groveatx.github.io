@@ -2,6 +2,11 @@
 title: Announcements for October 27, 2013
 date: 2013-10-27
 author: Aaron Stacy
+summary: |
+ Announcements for October 27, 2013  Worship at Dan and Carol's - The
+ Casebier's will be hosting Jeremiah Jones for a bit of campfire worship
+ tonight at 5:30 P.M. For more info find Dan or Carol at the gathering this
+ morning or contact Aaron.
 layout: post
 ---
 
