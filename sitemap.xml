@@ -102,7 +102,8 @@
     </url>
     <url>
         <loc>http://groveatx.org/gatherings/messages/gatherings/messages/</loc>
-        <lastmod>2013-10-30T21:49:58-05:00</lastmod>
+        <lastmod>2013-10-30T23:19:35-05:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://groveatx.org/gatherings/sunday-gathering/gatherings/sunday-gathering/</loc>
@@ -118,7 +119,8 @@
     </url>
     <url>
         <loc>http://groveatx.org/news/news/</loc>
-        <lastmod>2013-10-30T21:49:58-05:00</lastmod>
+        <lastmod>2013-10-30T22:13:27-05:00</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
         <loc>http://groveatx.org/serve/serve/</loc>

@@ -1,5 +1,6 @@
 ---
 layout: page
+change_frequency: weekly
 title: Messages
 ---
 
