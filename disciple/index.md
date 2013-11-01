@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jesus
+title: Disciple
 ---
 
 <img class="banner" src="/img/columns.jpg" alt="Jesus Christ" />

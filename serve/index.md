@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Serve
 ---
 
 <img class="banner" src="/img/be-the-love.jpg" alt="Be the love you are looking for in the world" />
