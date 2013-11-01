@@ -7,7 +7,13 @@
     {% else %}
       <title>{{ page.title }} - {{ site.title }}</title>
     {% endif %}
-    <meta name=description content="The Grove Church, Austin, Texas">
+
+    {% if page.description %}
+      <meta name=description content="{{ page.description }}">
+    {% else %}
+      <meta name=description content="The Grove Church, Austin, Texas">
+    {% endif %}
+
     <meta name=viewport content="width=device-width">
 
     <link rel=stylesheet href=/css/style.css>

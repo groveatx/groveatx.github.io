@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Community Groups
+description: |
+  Community groups are the heart and soul of The Grove. This is where we forge
+  real friendships that last. These are the places we share our hopes, goals,
+  passions, and lives with others. These groups become the foundation for
+  sharing Jesus's love with the rest of the world.
 ---
 
 <img class="banner" src="/img/tree-berries.jpg" alt="The Grove Church Community Groups" />

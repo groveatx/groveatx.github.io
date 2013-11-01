@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sunday Gathering
+description: |
+  We gather every Sunday morning at 10 A.M. at Zilker Elementary for a chance
+  to hang out and celebrate what God is doing in our lives.
 ---
 
 <img class="banner" src="/img/lights.jpg" alt="The Grove Church Sunday Gathering" />
