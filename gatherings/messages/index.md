@@ -11,6 +11,10 @@ title: Messages
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[November 17, 2013][20131117]** - While the previous message discusses our
+   values and where we're currently at as a community, this message talks about
+   where we're going and our game plan for reaching the city.
+
  - **[November 10, 2013][20131110]** - We discuss who we are and what [our
    values][values] mean for our community.
 
@@ -31,6 +35,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20131117]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-17-reid-johnson.mp3
 [20131110]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-10-scott-heider.mp3
 [20131103]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-03-steven-montgomery.mp3
 [20131006]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-10-06-tony-doland.mp3
