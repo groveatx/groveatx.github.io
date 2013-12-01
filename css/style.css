@@ -6709,3 +6709,7 @@ iframe {
 p {
   text-align: justify;
 }
+.pager {
+  background-color: white;
+  padding: 10px;
+}
