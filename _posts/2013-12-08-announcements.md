@@ -7,6 +7,11 @@ layout: post
 
 # Announcements for December 8, 2013
 
+ - **<span style="color: red">Gathering Cancelled** - Due to icy conditions on
+   the road and warnings from Austin Police, we will not be meeting for our
+   Sunday Gathering this week. Please take the opportunity to enjoy the warmth
+   of your homes and time with family!
+
  - **<em>Season of Giving</em> Board** - [Zilker Elementary is partnering with
    us][zilker] to help families in the community that are in need of extra
    assistance during the winter months. The *Season of Giving* bulletin board
