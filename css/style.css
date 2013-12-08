@@ -6713,3 +6713,14 @@ p {
   background-color: white;
   padding: 10px;
 }
+.warning {
+  background-color: #FFECEF;
+  border: 1px dashed red;
+  padding: 0 1em;
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  border-radius: 0.5em;
+}
+.warning h4 {
+  color: red;
+}
