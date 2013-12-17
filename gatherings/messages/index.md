@@ -11,6 +11,11 @@ title: Messages
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[December 15, 2013][20131215]** - Jesus chose to come in the midst of the
+   chaos, bringing good news of great joy, and breaking the 400-year silence
+   between God and his people. This weeks message reminded us of the incredible
+   story of his birth.
+
  - **[December 1, 2013][20131201]** - It is difficult to remain thankful for
    the things that we have. True, long-lasting thankfulness comes from focusing
    on everything God has done for us.
@@ -43,6 +48,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20131215]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-15-reid-johnson.mp3
 [20131201]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-01-scott-heider.mp3
 [20131124]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-24-reid-johnson.mp3
 [20131117]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-17-reid-johnson.mp3
