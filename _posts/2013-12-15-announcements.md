@@ -8,7 +8,7 @@ layout: post
 # Announcements for December 15, 2013
 
  - **Open House** - Next Sunday evening, December 22<sup>nd</sup> we will be
-   getting together for an open house at the Stacy's at 5 P.M. ([4515 Highland
+   getting together for an open house at the Stacy's at 3 P.M. ([4515 Highland
    Terrace][stacys]). This will be a great chance to get to know each other
    outside of just community groups and Sunday mornings. There will be light
    snacks, and kids are welcome!
