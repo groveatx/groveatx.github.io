@@ -11,6 +11,11 @@ title: Messages
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[January 5, 2014][20140105]** - There are many things we can resolve to do
+   in 2014, but what if we resolve to find our identity in Jesus? This message
+   talks about what [Romans 12][] has to say about our identity, our worship,
+   and the fruit of our lives.
+
  - **[December 15, 2013][20131215]** - Jesus chose to come in the midst of the
    chaos, bringing good news of great joy, and breaking the 400-year silence
    between God and his people. This weeks message reminded us of the incredible
@@ -48,6 +53,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140105]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-05-scott-heider.mp3
 [20131215]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-15-reid-johnson.mp3
 [20131201]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-01-scott-heider.mp3
 [20131124]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-11-24-reid-johnson.mp3
@@ -63,3 +69,4 @@ Sunday morning gatherings.
 [luke7_18]: http://www.biblegateway.com/passage/?search=Luke%207:18-35
 [values]: /about/values-and-beliefs/
 [luke17_11]: http://www.biblegateway.com/passage/?search=Luke%2017:11-19&version=ESV
+[Romans 12]: http://www.biblegateway.com/passage/?search=Romans+12
