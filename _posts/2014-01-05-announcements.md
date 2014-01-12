@@ -1,11 +1,11 @@
 ---
 title: Announcements for January 5, 2014
-date: 2014-12-05
+date: 2014-01-05
 author: Aaron Stacy
 layout: post
 ---
 
-# Announcements for December 5, 2014
+# Announcements for January 5, 2014
 
 Happy New Year!
 
