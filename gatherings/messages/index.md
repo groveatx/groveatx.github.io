@@ -2,6 +2,9 @@
 layout: page
 change_frequency: weekly
 title: Messages
+description: >
+  Audio recordings of the message from the Sunday gatherings each week. We try
+  to include a brief description and any major passages as well.
 ---
 
 <img class="banner" src="/img/ledgers.jpg" alt="The Grove Church Message Audio" />
