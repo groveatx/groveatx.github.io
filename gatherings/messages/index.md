@@ -11,6 +11,10 @@ title: Messages
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[January 12, 2014][20140112]** - Jesus came to save sinners, and we need
+   him. This week we saw in [Luke 7][luke7:36] a couple of illusions that keep
+   us from understanding and believing that he can save us.
+
  - **[January 5, 2014][20140105]** - There are many things we can resolve to do
    in 2014, but what if we resolve to find our identity in Jesus? This message
    talks about what [Romans 12][] has to say about our identity, our worship,
@@ -53,6 +57,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140112]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-12-reid-johnson.mp3
 [20140105]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-05-scott-heider.mp3
 [20131215]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-15-reid-johnson.mp3
 [20131201]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-01-scott-heider.mp3
@@ -70,3 +75,4 @@ Sunday morning gatherings.
 [values]: /about/values-and-beliefs/
 [luke17_11]: http://www.biblegateway.com/passage/?search=Luke%2017:11-19&version=ESV
 [Romans 12]: http://www.biblegateway.com/passage/?search=Romans+12
+[luke7:36]: http://www.biblegateway.com/passage/?search=Luke+7%3A36-50&version=ESV
