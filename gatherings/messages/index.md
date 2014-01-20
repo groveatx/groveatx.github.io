@@ -14,6 +14,10 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[January 19, 2014][20140119]** - In [Luke 8][luke8:4-18] Jesus tells a
+   parable about sowing seeds. We discuss its implications on how we are to
+   listen to God.
+
  - **[January 12, 2014][20140112]** - Jesus came to save sinners, and we need
    him. This week we saw in [Luke 7][luke7:36] a couple of illusions that keep
    us from understanding and believing that he can save us.
@@ -60,6 +64,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140119]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-19-reid-johnson.mp3
 [20140112]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-12-reid-johnson.mp3
 [20140105]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-05-scott-heider.mp3
 [20131215]: https://dl.dropboxusercontent.com/u/5738226/messages/2013-12-15-reid-johnson.mp3
@@ -79,3 +84,4 @@ Sunday morning gatherings.
 [luke17_11]: http://www.biblegateway.com/passage/?search=Luke%2017:11-19&version=ESV
 [Romans 12]: http://www.biblegateway.com/passage/?search=Romans+12
 [luke7:36]: http://www.biblegateway.com/passage/?search=Luke+7%3A36-50&version=ESV
+[luke8:4-18]: https://www.biblegateway.com/passage/?search=Luke+8%3A4-18&version=ESV
