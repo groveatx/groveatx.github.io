@@ -14,6 +14,11 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[January 26, 2014][20140126]** - Everyone, regardless of where they are in
+   life, has problems they need to deal with. This message looks at an instance
+   where Jesus' disciples reached out to him with a problem, and discusses what
+   we can learn from his response.
+
  - **[January 19, 2014][20140119]** - In [Luke 8][luke8:4-18] Jesus tells a
    parable about sowing seeds. We discuss its implications on how we are to
    listen to God.
@@ -64,6 +69,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140126]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-26-scott-heider.mp3
 [20140119]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-19-reid-johnson.mp3
 [20140112]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-12-reid-johnson.mp3
 [20140105]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-05-scott-heider.mp3
