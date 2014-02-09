@@ -14,6 +14,11 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[February 2, 2014][20140202]** - Church in our society doesn't spend a lot
+   of time talking about spiritual warfare, but Jesus spoke clearly about a
+   world beyond the physical. We look at a story in [Luke 8][luke8:26-39] where
+   Jesus confronts a demon, and its implications to our lives here and now.
+
  - **[January 26, 2014][20140126]** - Everyone, regardless of where they are in
    life, has problems they need to deal with. This message looks at an instance
    where Jesus' disciples reached out to him with a problem, and discusses what
@@ -69,6 +74,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140202]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-02-02-scott-heider.mp3
 [20140126]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-26-scott-heider.mp3
 [20140119]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-19-reid-johnson.mp3
 [20140112]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-12-reid-johnson.mp3
@@ -91,3 +97,4 @@ Sunday morning gatherings.
 [Romans 12]: http://www.biblegateway.com/passage/?search=Romans+12
 [luke7:36]: http://www.biblegateway.com/passage/?search=Luke+7%3A36-50&version=ESV
 [luke8:4-18]: https://www.biblegateway.com/passage/?search=Luke+8%3A4-18&version=ESV
+[luke8:26-39]: https://www.biblegateway.com/passage/?search=Luke+8%3A26-39&version=ESV
