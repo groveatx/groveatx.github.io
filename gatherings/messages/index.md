@@ -14,6 +14,10 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[February 9, 2014][20140209]** - Jesus definitively calls us to share the
+   Gospel, so we discuss what exactly the Gospel is and what the Grove believes
+   about it.
+
  - **[February 2, 2014][20140202]** - Church in our society doesn't spend a lot
    of time talking about spiritual warfare, but Jesus spoke clearly about a
    world beyond the physical. We look at a story in [Luke 8][luke8:26-39] where
@@ -74,6 +78,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140209]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-02-09-reid-johnson.mp3
 [20140202]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-02-02-scott-heider.mp3
 [20140126]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-26-scott-heider.mp3
 [20140119]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-01-19-reid-johnson.mp3
