@@ -6,6 +6,6 @@ title: The Grove
 permalink: /news/:year/:month/:day/:title/
 paginate_path: /news/page/:num/
 paginate: 5
-facebook: http://www.facebook.com/thegroveaustin
+facebook: https://www.facebook.com/groveatx
 twitter: https://twitter.com/GroveATX
 markdown: rdiscount
