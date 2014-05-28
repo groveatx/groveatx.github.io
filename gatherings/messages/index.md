@@ -14,6 +14,8 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[May 25, 2014][20140525]**
+
  - **[May 18, 2014][20140518]**
 
  - **[May 11, 2014][20140511]**
@@ -107,6 +109,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20140525]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-05-25-reid-johnson.mp3
 [20140518]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-05-18-matt-jones.mp3
 [20140511]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-05-11-reid-johnson.mp3
 [20140504]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-05-04-reid-johnson.mp3
