@@ -121,12 +121,13 @@
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://groveatx.org/about/give/</loc>
+        <loc>http://groveatx.org/news/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>http://groveatx.org/about/leaders/</loc>
-        <lastmod>2014-05-19T08:58:26-05:00</lastmod>
+        <loc>http://groveatx.org/gatherings/grove-groups/</loc>
+        <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
         <loc>http://groveatx.org/about/values-and-beliefs/</loc>
@@ -145,16 +146,16 @@
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://groveatx.org/disciple/</loc>
+        <loc>http://groveatx.org/about/give/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://groveatx.org/gatherings/grove-groups/</loc>
-        <lastmod>2014-04-12T21:34:41-05:00</lastmod>
+        <loc>http://groveatx.org/about/leaders/</loc>
+        <lastmod>2014-05-19T08:58:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://groveatx.org/gatherings/messages/</loc>
-        <lastmod>2014-06-02T12:59:08-05:00</lastmod>
+        <lastmod>2014-06-17T09:59:56-05:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
@@ -170,9 +171,8 @@
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://groveatx.org/news/</loc>
+        <loc>http://groveatx.org/disciple/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
-        <changefreq>daily</changefreq>
     </url>
     <url>
         <loc>http://groveatx.org/serve/</loc>
