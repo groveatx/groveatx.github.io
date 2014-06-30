@@ -119,7 +119,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
-[20140629]: https://www.dropbox.com/s/3ui4idxtjshaji5/2014-06-29-reid-johnson.mp3?n=42932761
+[20140629]: https://dl.dropboxusercontent.com/u/42932761/2014-06-29-reid-johnson.mp3
 [20140622]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-06-22-reid-johnson.mp3
 [20140615]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-06-15-reid-johnson.mp3
 [20140608]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-06-08-reid-johnson.mp3
