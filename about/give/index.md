@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Give
+description: Give to The Grove online.
 ---
 
 <img class="banner" src="/img/old-wood.jpg" />

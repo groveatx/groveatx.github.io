@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /about/give/thanks
+Disallow: /about/give/thanks/
