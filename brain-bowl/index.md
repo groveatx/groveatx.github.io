@@ -5,14 +5,14 @@ title: Brain Bowl
 
 # Congrats to Our 2014 Brain Bowl Winners
 
-![Blue Barracudas](/img/blue-barracudas.gif)
+![Sparkle Motion](/img/blue-barracudas.gif)
 
 ### The Blue Barracudas
 
-- Josh Beurskens
-- Jaci Johnson
-- Ashly Stacy
-- Aaron Stacy
-- Jack Johnson
+- Casey Arnold
+- Afton Jones
+- Matt Jones
+- Molly Mason
+- Raymond McClain
 
-(better luck next year, Matt)
+(better luck next year, Aaron)
