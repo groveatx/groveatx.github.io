@@ -7,7 +7,7 @@ title: Brain Bowl
 
 ![Sparkle Motion](/img/blue-barracudas.gif)
 
-### The Blue Barracudas
+### Sparkle Motion
 
 - Casey Arnold
 - Afton Jones
