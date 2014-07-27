@@ -5,7 +5,7 @@ title: Brain Bowl
 
 # Congrats to Our 2014 Brain Bowl Winners
 
-![Sparkle Motion](/img/blue-barracudas.gif)
+![Sparkle Motion](https://i.cloudup.com/Y2Zms-j0FQ.gif)
 
 ### Sparkle Motion
 
@@ -14,5 +14,3 @@ title: Brain Bowl
 - Matt Jones
 - Molly Mason
 - Raymond McClain
-
-(better luck next year, Aaron)
