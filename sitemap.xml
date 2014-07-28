@@ -126,7 +126,7 @@
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>http://groveatx.org/backpackdrive/</loc>
+        <loc>http://groveatx.org/gatherings/grove-groups/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
@@ -150,7 +150,7 @@
         <lastmod>2014-07-12T14:12:45-05:00</lastmod>
     </url>
     <url>
-        <loc>http://groveatx.org/gatherings/grove-groups/</loc>
+        <loc>http://groveatx.org/backpackdrive/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
     </url>
     <url>
@@ -173,6 +173,11 @@
     <url>
         <loc>http://groveatx.org/disciple/</loc>
         <lastmod>2014-04-12T21:34:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://groveatx.org/serve/grillout/</loc>
+        <lastmod>2014-07-27T20:35:39-05:00</lastmod>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>http://groveatx.org/serve/</loc>
