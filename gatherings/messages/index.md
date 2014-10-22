@@ -15,6 +15,8 @@ Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
  - **[October 19, 2014][20141019]**
+ 
+ - **[October 12, 2014][20141012]** 
 
  - **[October 5, 2014][20141005]**
 
@@ -146,6 +148,7 @@ Sunday morning gatherings.
    6][]. In this message we unpack the implications of this difficult passage.
 
 [20141019]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-10-19-reid-johnson.mp3
+[20141012]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-10-12-reid-johnson.mp3
 [20141005]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-10-05-reid-johnson.mp3
 [20140928]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-09-28-reid-johnson.mp3
 [20140921]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-09-21-reid-johnson.mp3
