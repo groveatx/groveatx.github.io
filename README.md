@@ -1,14 +1,18 @@
 ## the grove church website.
 
+it's deployed to github pages because it's free, fast, and secure. that means
+anyone in the @groveatx github org can deploy. the domain is registerd to
+@aaronj1335's [dnsimple][] account, and the dns hosting happens there as well.
+
 ### adding a post
 
- - go [here](https://github.com/groveatx/groveatx.github.io/tree/master/_posts), click the 'Create
-   a new file here' button:
+ - go [here][posts], click the 'Create a new file here' button:
 
 ![create a new file](http://i.imgur.com/KUgzcd0.png)
 
- - name the file similarly to the other files, the date followed by the post title, so if you're
-   doing the announcements for june 23rd, you'd title it `2013-06-23-announcements.md`.
+ - name the file similarly to the other files, the date followed by the post
+   title, so if you're doing the announcements for june 23rd, you'd title it
+   `2013-06-23-announcements.md`.
  - add the necessary metadata about what your post to the top of the file (it's
    important to use this exact format, but use your own info, of course):
 
@@ -21,8 +25,8 @@ layout: post
 ---
 ```
 
- - and then write your post in the [markdown](http://daringfireball.net/projects/markdown/)
-   format. it'll probably look something like this:
+ - and then write your post in the [markdown][] format. it'll probably look
+   something like this:
 
 ```markdown
 
@@ -76,3 +80,7 @@ Church.
 
 all non-third-party code is licensed under the included MIT license listed in
 the LICENSE file in this same directory.
+
+[dnsimple]: https://dnsimple.com
+[markdown]: http://daringfireball.net/projects/markdown/
+[posts]: https://github.com/groveatx/groveatx.github.io/tree/master/_posts
