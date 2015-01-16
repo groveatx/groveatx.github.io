@@ -14,6 +14,8 @@ description: >
 Click the links below to stream or download audio of the messages from our
 Sunday morning gatherings.
 
+ - **[January 11, 2015][20150111]** &mdash; Relationship Status, part 2
+
  - **[January 4, 2015][20150104]** &mdash; Relationship Status, part 1
 
  - **[December 21, 2014][20141221]** &mdash; Christmas Series, part 4: The Purpose of Christmas
@@ -167,6 +169,7 @@ Sunday morning gatherings.
  - **[October 6, 2013][20131006]** - Jesus told us to love our enemies in [Luke
    6][]. In this message we unpack the implications of this difficult passage.
 
+[20150111]: https://dl.dropboxusercontent.com/u/5738226/messages/2015-01-11-reid-johnson.mp3
 [20150104]: https://dl.dropboxusercontent.com/u/42932761/2015-01-04-reid-johnson.mp3
 [20141221]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-12-21-reid-johnson.mp3
 [20141214]: https://dl.dropboxusercontent.com/u/5738226/messages/2014-12-14-reid-johnson.mp3
